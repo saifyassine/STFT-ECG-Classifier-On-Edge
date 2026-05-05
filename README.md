@@ -1,6 +1,6 @@
 # ECG Arrhythmia Classification using STFT-CNN with Pruning & Quantization
 
-Deep learning pipeline for ECG arrhythmia detection optimized for edge devices (Raspberry Pi, mobile). Achieves 98.66% accuracy with models as small as 5KB and <0.2ms inference time.
+Deep learning pipeline for ECG arrhythmia detection optimized for edge devices (Raspberry Pi, mobile). Achieves 98.66% accuracy with models as small as 5KB and < 1ms inference time.
 
 ## 📋 Overview
 
